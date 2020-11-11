@@ -1,0 +1,4 @@
+﻿  osio10teht.cpp
+C:\Users\joona.pohjonen\source\repos\osio10teht\osio10teht.cpp(97,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\joona.pohjonen\source\repos\osio10teht\osio10teht.cpp(102,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  osio10teht.vcxproj -> C:\Users\joona.pohjonen\source\repos\osio10teht\Debug\osio10teht.exe

@@ -1,0 +1,2 @@
+C:\Users\joona.pohjonen\source\repos\osio10teht\Debug\osio10teht.exe
+C:\Users\joona.pohjonen\source\repos\osio10teht\Debug\osio10teht.pdb
